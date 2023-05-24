@@ -1,4 +1,3 @@
-Certainly! Here's the updated JavaScript code for running on Glitch:
 
 ```javascript
 async function searchAddress() {
